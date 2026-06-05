@@ -14,6 +14,7 @@ I build the things that keep autonomous systems from doing irreversible damage. 
 |---|---|---|
 | Governance kernel | [Spine Lite](https://github.com/MacFall7/spine-lite-python) (Python · [JVM](https://github.com/MacFall7/spine-lite-jvm) · [.NET](https://github.com/MacFall7/spine-lite.NET)) | MIT, multi-runtime |
 | Reference impl | [Governance Sandbox](https://github.com/MacFall7/m87-governance-sandbox) | BSL 1.1 |
+| Executable spec (BPMN) | [m87-governed-loop](https://github.com/MacFall7/m87-governed-loop) | MIT, Python + Java, CI-green |
 | Agentic substrate | [Governed Swarm](https://github.com/MacFall7/m87-governed-swarm) | BSL 1.1 |
 | Audit | [m87-audit-agent](https://github.com/MacFall7/m87-audit-agent) | MIT |
 | Bridge | [m87-governed-bridge](https://github.com/MacFall7/m87-governed-bridge) | Claude ↔ Gemini, governed |
