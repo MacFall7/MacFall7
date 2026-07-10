@@ -4,6 +4,8 @@
 
 I build the things that keep autonomous systems from doing irreversible damage. Most agent stacks treat governance as an afterthought; mine treats it as the substrate.
 
+**Start here:** [Spine Lite](https://github.com/MacFall7/spine-lite-python) (governance kernel) → [Governed Swarm](https://github.com/MacFall7/m87-governed-swarm) (full reference architecture) → [StemForge](https://github.com/MacFall7/Stem-Forge) (applied system, benchmarked) → [Resonance](https://resonance.m87studio.net) (live product).
+
 ---
 
 ## What I'm building
@@ -18,6 +20,7 @@ I build the things that keep autonomous systems from doing irreversible damage. 
 | Agentic substrate | [Governed Swarm](https://github.com/MacFall7/m87-governed-swarm) | BSL 1.1 |
 | Audit | [m87-audit-agent](https://github.com/MacFall7/m87-audit-agent) | MIT |
 | Bridge | [m87-governed-bridge](https://github.com/MacFall7/m87-governed-bridge) | Claude ↔ Gemini, governed |
+| Applied system | [StemForge](https://github.com/MacFall7/Stem-Forge) | MIT, local GPU audio workstation, benchmarked |
 | Live product | [Resonance](https://resonance.m87studio.net) | Production |
 
 ---
