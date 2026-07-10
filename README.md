@@ -4,7 +4,7 @@
 
 I build the things that keep autonomous systems from doing irreversible damage. Most agent stacks treat governance as an afterthought; mine treats it as the substrate.
 
-**Start here:** [Spine Lite](https://github.com/MacFall7/spine-lite-python) (governance kernel) → [Governed Swarm](https://github.com/MacFall7/m87-governed-swarm) (full reference architecture) → [StemForge](https://github.com/MacFall7/Stem-Forge) (applied system, benchmarked) → [Resonance](https://resonance.m87studio.net) (live product).
+**Start here:** [Governed Code-Change Evidence](https://github.com/MacFall7/m87-governed-code-change-evidence) (inspect the proof) → [Spine Lite](https://github.com/MacFall7/spine-lite-python) (inspect the public kernel) → [Governed Swarm](https://github.com/MacFall7/m87-governed-swarm) (inspect the full reference architecture) → [StemForge](https://github.com/MacFall7/Stem-Forge) (inspect applied engineering).
 
 ---
 
